@@ -116,7 +116,7 @@ const styles = StyleSheet.create({
         flex: 0.5,
         flexDirection: 'column',
         justifyContent: 'center',
-        backgroundColor: "#FFF"
+        backgroundColor: "#FFF0001"
     },
 
     timeContainer: {
