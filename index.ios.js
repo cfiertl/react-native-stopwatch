@@ -1,4 +1,6 @@
-
+/**
+ * @Chris
+ */
 import React from 'react';
 import {
   AppRegistry
